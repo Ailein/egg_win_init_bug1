@@ -1,0 +1,299 @@
+2017-06-30 10:50:34,454 INFO 7152 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 10:50:34,496 INFO 7152 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 10:50:34,496 INFO 7152 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 10:50:34,553 INFO 7152 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 10:50:34,558 INFO 7152 [egg-security] use csrf middleware
+2017-06-30 10:50:34,559 INFO 7152 [egg-security] use methodnoallow middleware
+2017-06-30 10:50:34,560 INFO 7152 [egg-security] use noopen middleware
+2017-06-30 10:50:34,560 INFO 7152 [egg-security] use nosniff middleware
+2017-06-30 10:50:34,561 INFO 7152 [egg-security] use xssProtection middleware
+2017-06-30 10:50:34,561 INFO 7152 [egg-security] use xframe middleware
+2017-06-30 10:50:34,562 INFO 7152 [egg-security] use dta middleware
+2017-06-30 10:50:34,562 INFO 7152 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 10:50:34,595 INFO 7152 [egg-watcher:app] watcher start success
+2017-06-30 10:51:39,307 INFO 3520 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 10:51:39,377 INFO 3520 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 10:51:39,377 INFO 3520 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 10:51:39,472 INFO 3520 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 10:51:39,481 INFO 3520 [egg-security] use csrf middleware
+2017-06-30 10:51:39,483 INFO 3520 [egg-security] use methodnoallow middleware
+2017-06-30 10:51:39,484 INFO 3520 [egg-security] use noopen middleware
+2017-06-30 10:51:39,486 INFO 3520 [egg-security] use nosniff middleware
+2017-06-30 10:51:39,487 INFO 3520 [egg-security] use xssProtection middleware
+2017-06-30 10:51:39,488 INFO 3520 [egg-security] use xframe middleware
+2017-06-30 10:51:39,489 INFO 3520 [egg-security] use dta middleware
+2017-06-30 10:51:39,489 INFO 3520 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 10:51:39,552 INFO 3520 [egg-watcher:app] watcher start success
+2017-06-30 10:51:39,307 INFO 3524 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 10:51:39,378 INFO 3524 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 10:51:39,378 INFO 3524 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 10:51:39,506 INFO 3524 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 10:51:39,512 INFO 3524 [egg-security] use csrf middleware
+2017-06-30 10:51:39,514 INFO 3524 [egg-security] use methodnoallow middleware
+2017-06-30 10:51:39,515 INFO 3524 [egg-security] use noopen middleware
+2017-06-30 10:51:39,516 INFO 3524 [egg-security] use nosniff middleware
+2017-06-30 10:51:39,517 INFO 3524 [egg-security] use xssProtection middleware
+2017-06-30 10:51:39,518 INFO 3524 [egg-security] use xframe middleware
+2017-06-30 10:51:39,518 INFO 3524 [egg-security] use dta middleware
+2017-06-30 10:51:39,518 INFO 3524 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 10:51:39,589 INFO 3524 [egg-watcher:app] watcher start success
+2017-06-30 10:51:39,340 INFO 3212 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 10:51:39,416 INFO 3212 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 10:51:39,416 INFO 3212 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 10:51:39,508 INFO 3212 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 10:51:39,512 INFO 3212 [egg-security] use csrf middleware
+2017-06-30 10:51:39,514 INFO 3212 [egg-security] use methodnoallow middleware
+2017-06-30 10:51:39,515 INFO 3212 [egg-security] use noopen middleware
+2017-06-30 10:51:39,516 INFO 3212 [egg-security] use nosniff middleware
+2017-06-30 10:51:39,517 INFO 3212 [egg-security] use xssProtection middleware
+2017-06-30 10:51:39,518 INFO 3212 [egg-security] use xframe middleware
+2017-06-30 10:51:39,518 INFO 3212 [egg-security] use dta middleware
+2017-06-30 10:51:39,518 INFO 3212 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 10:51:39,583 INFO 3212 [egg-watcher:app] watcher start success
+2017-06-30 10:51:39,376 INFO 5084 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 10:51:39,453 INFO 5084 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 10:51:39,454 INFO 5084 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 10:51:39,562 INFO 5084 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 10:51:39,567 INFO 5084 [egg-security] use csrf middleware
+2017-06-30 10:51:39,569 INFO 5084 [egg-security] use methodnoallow middleware
+2017-06-30 10:51:39,570 INFO 5084 [egg-security] use noopen middleware
+2017-06-30 10:51:39,571 INFO 5084 [egg-security] use nosniff middleware
+2017-06-30 10:51:39,572 INFO 5084 [egg-security] use xssProtection middleware
+2017-06-30 10:51:39,573 INFO 5084 [egg-security] use xframe middleware
+2017-06-30 10:51:39,577 INFO 5084 [egg-security] use dta middleware
+2017-06-30 10:51:39,577 INFO 5084 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 10:51:39,676 INFO 5084 [egg-watcher:app] watcher start success
+2017-06-30 11:01:54,814 INFO 7056 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:01:54,893 INFO 7056 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:01:54,893 INFO 7056 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:01:54,979 INFO 7056 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:01:54,983 INFO 7056 [egg-security] use csrf middleware
+2017-06-30 11:01:54,984 INFO 7056 [egg-security] use methodnoallow middleware
+2017-06-30 11:01:54,985 INFO 7056 [egg-security] use noopen middleware
+2017-06-30 11:01:54,986 INFO 7056 [egg-security] use nosniff middleware
+2017-06-30 11:01:54,988 INFO 7056 [egg-security] use xssProtection middleware
+2017-06-30 11:01:54,989 INFO 7056 [egg-security] use xframe middleware
+2017-06-30 11:01:54,989 INFO 7056 [egg-security] use dta middleware
+2017-06-30 11:01:54,990 INFO 7056 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:01:55,061 INFO 7056 [egg-watcher:app] watcher start success
+2017-06-30 11:01:54,825 INFO 3356 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:01:54,895 INFO 3356 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:01:54,896 INFO 3356 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:01:54,981 INFO 3356 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:01:54,986 INFO 3356 [egg-security] use csrf middleware
+2017-06-30 11:01:54,988 INFO 3356 [egg-security] use methodnoallow middleware
+2017-06-30 11:01:54,989 INFO 3356 [egg-security] use noopen middleware
+2017-06-30 11:01:54,989 INFO 3356 [egg-security] use nosniff middleware
+2017-06-30 11:01:54,990 INFO 3356 [egg-security] use xssProtection middleware
+2017-06-30 11:01:54,991 INFO 3356 [egg-security] use xframe middleware
+2017-06-30 11:01:54,992 INFO 3356 [egg-security] use dta middleware
+2017-06-30 11:01:54,992 INFO 3356 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:01:55,060 INFO 3356 [egg-watcher:app] watcher start success
+2017-06-30 11:01:54,832 INFO 7052 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:01:54,906 INFO 7052 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:01:54,906 INFO 7052 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:01:55,002 INFO 7052 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:01:55,007 INFO 7052 [egg-security] use csrf middleware
+2017-06-30 11:01:55,008 INFO 7052 [egg-security] use methodnoallow middleware
+2017-06-30 11:01:55,009 INFO 7052 [egg-security] use noopen middleware
+2017-06-30 11:01:55,010 INFO 7052 [egg-security] use nosniff middleware
+2017-06-30 11:01:55,011 INFO 7052 [egg-security] use xssProtection middleware
+2017-06-30 11:01:55,012 INFO 7052 [egg-security] use xframe middleware
+2017-06-30 11:01:55,013 INFO 7052 [egg-security] use dta middleware
+2017-06-30 11:01:55,013 INFO 7052 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:01:55,093 INFO 7052 [egg-watcher:app] watcher start success
+2017-06-30 11:01:54,839 INFO 216 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:01:54,913 INFO 216 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:01:54,913 INFO 216 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:01:55,002 INFO 216 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:01:55,006 INFO 216 [egg-security] use csrf middleware
+2017-06-30 11:01:55,007 INFO 216 [egg-security] use methodnoallow middleware
+2017-06-30 11:01:55,008 INFO 216 [egg-security] use noopen middleware
+2017-06-30 11:01:55,009 INFO 216 [egg-security] use nosniff middleware
+2017-06-30 11:01:55,010 INFO 216 [egg-security] use xssProtection middleware
+2017-06-30 11:01:55,011 INFO 216 [egg-security] use xframe middleware
+2017-06-30 11:01:55,012 INFO 216 [egg-security] use dta middleware
+2017-06-30 11:01:55,012 INFO 216 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:01:55,092 INFO 216 [egg-watcher:app] watcher start success
+2017-06-30 11:02:54,204 INFO 2056 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:02:54,249 INFO 2056 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:02:54,249 INFO 2056 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:02:54,303 INFO 2056 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:02:54,306 INFO 2056 [egg-security] use csrf middleware
+2017-06-30 11:02:54,306 INFO 2056 [egg-security] use methodnoallow middleware
+2017-06-30 11:02:54,307 INFO 2056 [egg-security] use noopen middleware
+2017-06-30 11:02:54,308 INFO 2056 [egg-security] use nosniff middleware
+2017-06-30 11:02:54,308 INFO 2056 [egg-security] use xssProtection middleware
+2017-06-30 11:02:54,308 INFO 2056 [egg-security] use xframe middleware
+2017-06-30 11:02:54,309 INFO 2056 [egg-security] use dta middleware
+2017-06-30 11:02:54,309 INFO 2056 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:02:54,388 INFO 2056 [egg-watcher:app] watcher start success
+2017-06-30 11:08:01,346 INFO 8696 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:08:01,388 INFO 8696 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:08:01,388 INFO 8696 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:08:01,436 INFO 8696 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:08:01,438 INFO 8696 [egg-security] use csrf middleware
+2017-06-30 11:08:01,439 INFO 8696 [egg-security] use methodnoallow middleware
+2017-06-30 11:08:01,440 INFO 8696 [egg-security] use noopen middleware
+2017-06-30 11:08:01,440 INFO 8696 [egg-security] use nosniff middleware
+2017-06-30 11:08:01,441 INFO 8696 [egg-security] use xssProtection middleware
+2017-06-30 11:08:01,441 INFO 8696 [egg-security] use xframe middleware
+2017-06-30 11:08:01,442 INFO 8696 [egg-security] use dta middleware
+2017-06-30 11:08:01,442 INFO 8696 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:08:01,478 INFO 8696 [egg-watcher:app] watcher start success
+2017-06-30 11:09:54,125 INFO 6272 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:09:54,165 INFO 6272 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:09:54,166 INFO 6272 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:09:54,233 INFO 6272 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:09:54,236 INFO 6272 [egg-security] use csrf middleware
+2017-06-30 11:09:54,236 INFO 6272 [egg-security] use methodnoallow middleware
+2017-06-30 11:09:54,237 INFO 6272 [egg-security] use noopen middleware
+2017-06-30 11:09:54,237 INFO 6272 [egg-security] use nosniff middleware
+2017-06-30 11:09:54,238 INFO 6272 [egg-security] use xssProtection middleware
+2017-06-30 11:09:54,239 INFO 6272 [egg-security] use xframe middleware
+2017-06-30 11:09:54,239 INFO 6272 [egg-security] use dta middleware
+2017-06-30 11:09:54,239 INFO 6272 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:09:54,314 INFO 6272 [egg-watcher:app] watcher start success
+2017-06-30 11:10:04,737 INFO 8848 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:10:04,776 INFO 8848 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:10:04,776 INFO 8848 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:10:04,824 INFO 8848 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:10:04,827 INFO 8848 [egg-security] use csrf middleware
+2017-06-30 11:10:04,828 INFO 8848 [egg-security] use methodnoallow middleware
+2017-06-30 11:10:04,828 INFO 8848 [egg-security] use noopen middleware
+2017-06-30 11:10:04,829 INFO 8848 [egg-security] use nosniff middleware
+2017-06-30 11:10:04,829 INFO 8848 [egg-security] use xssProtection middleware
+2017-06-30 11:10:04,830 INFO 8848 [egg-security] use xframe middleware
+2017-06-30 11:10:04,830 INFO 8848 [egg-security] use dta middleware
+2017-06-30 11:10:04,830 INFO 8848 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:10:04,864 INFO 8848 [egg-watcher:app] watcher start success
+2017-06-30 11:10:46,709 INFO 3972 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:10:46,748 INFO 3972 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:10:46,748 INFO 3972 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:10:46,808 INFO 3972 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:10:46,813 INFO 3972 [egg-security] use csrf middleware
+2017-06-30 11:10:46,815 INFO 3972 [egg-security] use methodnoallow middleware
+2017-06-30 11:10:46,816 INFO 3972 [egg-security] use noopen middleware
+2017-06-30 11:10:46,817 INFO 3972 [egg-security] use nosniff middleware
+2017-06-30 11:10:46,818 INFO 3972 [egg-security] use xssProtection middleware
+2017-06-30 11:10:46,819 INFO 3972 [egg-security] use xframe middleware
+2017-06-30 11:10:46,820 INFO 3972 [egg-security] use dta middleware
+2017-06-30 11:10:46,821 INFO 3972 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:10:46,887 INFO 3972 [egg-watcher:app] watcher start success
+2017-06-30 11:13:08,396 INFO 6620 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:13:08,436 INFO 6620 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:13:08,437 INFO 6620 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:13:08,487 INFO 6620 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:13:08,489 INFO 6620 [egg-security] use csrf middleware
+2017-06-30 11:13:08,490 INFO 6620 [egg-security] use methodnoallow middleware
+2017-06-30 11:13:08,491 INFO 6620 [egg-security] use noopen middleware
+2017-06-30 11:13:08,491 INFO 6620 [egg-security] use nosniff middleware
+2017-06-30 11:13:08,492 INFO 6620 [egg-security] use xssProtection middleware
+2017-06-30 11:13:08,492 INFO 6620 [egg-security] use xframe middleware
+2017-06-30 11:13:08,493 INFO 6620 [egg-security] use dta middleware
+2017-06-30 11:13:08,493 INFO 6620 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:13:08,527 INFO 6620 [egg-watcher:app] watcher start success
+2017-06-30 11:26:12,099 INFO 6612 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:26:12,140 INFO 6612 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:26:12,140 INFO 6612 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:26:12,198 INFO 6612 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:26:12,201 INFO 6612 [egg-security] use csrf middleware
+2017-06-30 11:26:12,202 INFO 6612 [egg-security] use methodnoallow middleware
+2017-06-30 11:26:12,202 INFO 6612 [egg-security] use noopen middleware
+2017-06-30 11:26:12,203 INFO 6612 [egg-security] use nosniff middleware
+2017-06-30 11:26:12,203 INFO 6612 [egg-security] use xssProtection middleware
+2017-06-30 11:26:12,204 INFO 6612 [egg-security] use xframe middleware
+2017-06-30 11:26:12,204 INFO 6612 [egg-security] use dta middleware
+2017-06-30 11:26:12,204 INFO 6612 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:26:12,277 INFO 6612 [egg-watcher:app] watcher start success
+2017-06-30 11:26:17,580 INFO 5012 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:26:17,626 INFO 5012 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:26:17,627 INFO 5012 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:26:17,715 INFO 5012 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:26:17,718 INFO 5012 [egg-security] use csrf middleware
+2017-06-30 11:26:17,718 INFO 5012 [egg-security] use methodnoallow middleware
+2017-06-30 11:26:17,719 INFO 5012 [egg-security] use noopen middleware
+2017-06-30 11:26:17,720 INFO 5012 [egg-security] use nosniff middleware
+2017-06-30 11:26:17,720 INFO 5012 [egg-security] use xssProtection middleware
+2017-06-30 11:26:17,721 INFO 5012 [egg-security] use xframe middleware
+2017-06-30 11:26:17,721 INFO 5012 [egg-security] use dta middleware
+2017-06-30 11:26:17,721 INFO 5012 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:26:17,757 INFO 5012 [egg-watcher:app] watcher start success
+2017-06-30 11:27:25,479 INFO 3292 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:27:25,518 INFO 3292 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:27:25,518 INFO 3292 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:27:25,567 INFO 3292 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:27:25,569 INFO 3292 [egg-security] use csrf middleware
+2017-06-30 11:27:25,570 INFO 3292 [egg-security] use methodnoallow middleware
+2017-06-30 11:27:25,571 INFO 3292 [egg-security] use noopen middleware
+2017-06-30 11:27:25,571 INFO 3292 [egg-security] use nosniff middleware
+2017-06-30 11:27:25,572 INFO 3292 [egg-security] use xssProtection middleware
+2017-06-30 11:27:25,572 INFO 3292 [egg-security] use xframe middleware
+2017-06-30 11:27:25,573 INFO 3292 [egg-security] use dta middleware
+2017-06-30 11:27:25,573 INFO 3292 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:27:25,643 INFO 3292 [egg-watcher:app] watcher start success
+2017-06-30 11:27:34,750 INFO 7028 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:27:34,801 INFO 7028 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:27:34,801 INFO 7028 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:27:34,862 INFO 7028 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:27:34,865 INFO 7028 [egg-security] use csrf middleware
+2017-06-30 11:27:34,865 INFO 7028 [egg-security] use methodnoallow middleware
+2017-06-30 11:27:34,866 INFO 7028 [egg-security] use noopen middleware
+2017-06-30 11:27:34,866 INFO 7028 [egg-security] use nosniff middleware
+2017-06-30 11:27:34,867 INFO 7028 [egg-security] use xssProtection middleware
+2017-06-30 11:27:34,867 INFO 7028 [egg-security] use xframe middleware
+2017-06-30 11:27:34,868 INFO 7028 [egg-security] use dta middleware
+2017-06-30 11:27:34,868 INFO 7028 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:27:34,905 INFO 7028 [egg-watcher:app] watcher start success
+2017-06-30 11:28:59,197 INFO 3448 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:28:59,245 INFO 3448 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:28:59,245 INFO 3448 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:28:59,314 INFO 3448 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:28:59,317 INFO 3448 [egg-security] use csrf middleware
+2017-06-30 11:28:59,318 INFO 3448 [egg-security] use methodnoallow middleware
+2017-06-30 11:28:59,318 INFO 3448 [egg-security] use noopen middleware
+2017-06-30 11:28:59,319 INFO 3448 [egg-security] use nosniff middleware
+2017-06-30 11:28:59,319 INFO 3448 [egg-security] use xssProtection middleware
+2017-06-30 11:28:59,320 INFO 3448 [egg-security] use xframe middleware
+2017-06-30 11:28:59,320 INFO 3448 [egg-security] use dta middleware
+2017-06-30 11:28:59,320 INFO 3448 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:28:59,408 INFO 3448 [egg-watcher:app] watcher start success
+2017-06-30 11:32:23,971 INFO 6276 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:32:24,031 INFO 6276 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:32:24,032 INFO 6276 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:32:24,106 INFO 6276 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:32:24,110 INFO 6276 [egg-security] use csrf middleware
+2017-06-30 11:32:24,111 INFO 6276 [egg-security] use methodnoallow middleware
+2017-06-30 11:32:24,112 INFO 6276 [egg-security] use noopen middleware
+2017-06-30 11:32:24,113 INFO 6276 [egg-security] use nosniff middleware
+2017-06-30 11:32:24,113 INFO 6276 [egg-security] use xssProtection middleware
+2017-06-30 11:32:24,114 INFO 6276 [egg-security] use xframe middleware
+2017-06-30 11:32:24,115 INFO 6276 [egg-security] use dta middleware
+2017-06-30 11:32:24,115 INFO 6276 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:32:24,160 INFO 6276 [egg-watcher:app] watcher start success
+2017-06-30 11:32:32,394 INFO 7684 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:32:32,444 INFO 7684 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:32:32,445 INFO 7684 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:32:32,501 INFO 7684 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:32:32,504 INFO 7684 [egg-security] use csrf middleware
+2017-06-30 11:32:32,505 INFO 7684 [egg-security] use methodnoallow middleware
+2017-06-30 11:32:32,506 INFO 7684 [egg-security] use noopen middleware
+2017-06-30 11:32:32,507 INFO 7684 [egg-security] use nosniff middleware
+2017-06-30 11:32:32,507 INFO 7684 [egg-security] use xssProtection middleware
+2017-06-30 11:32:32,508 INFO 7684 [egg-security] use xframe middleware
+2017-06-30 11:32:32,508 INFO 7684 [egg-security] use dta middleware
+2017-06-30 11:32:32,508 INFO 7684 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:32:32,584 INFO 7684 [egg-watcher:app] watcher start success
+2017-06-30 11:32:42,876 INFO 5084 [egg:logger] init all loggers with options: {"dir":"C:\\wamp64\\www\\trade-v2\\logs\\trade-v2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"trade-v2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-06-30 11:32:42,922 INFO 5084 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\clean_log.js
+2017-06-30 11:32:42,922 INFO 5084 [egg-schedule]: register schedule egg-schedule:C:\wamp64\www\trade-v2\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2017-06-30 11:32:42,977 INFO 5084 [egg-static] starting static serve /public/ -> C:\wamp64\www\trade-v2\app\public
+2017-06-30 11:32:42,983 INFO 5084 [egg-security] use csrf middleware
+2017-06-30 11:32:42,986 INFO 5084 [egg-security] use methodnoallow middleware
+2017-06-30 11:32:42,988 INFO 5084 [egg-security] use noopen middleware
+2017-06-30 11:32:42,989 INFO 5084 [egg-security] use nosniff middleware
+2017-06-30 11:32:42,990 INFO 5084 [egg-security] use xssProtection middleware
+2017-06-30 11:32:42,991 INFO 5084 [egg-security] use xframe middleware
+2017-06-30 11:32:42,992 INFO 5084 [egg-security] use dta middleware
+2017-06-30 11:32:42,992 INFO 5084 [egg-security] compose 7 middlewares into one security middleware
+2017-06-30 11:32:43,078 INFO 5084 [egg-watcher:app] watcher start success
